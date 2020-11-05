@@ -10,5 +10,5 @@ package com.mycompany.proyectorestaurante;
  * @author compu
  */
 public class Restaurante {
-     int captura;
+     
 }
